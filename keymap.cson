@@ -1,0 +1,13 @@
+'.platform-linux atom-workspace, .platform-win32 atom-workspace':
+  'ctrl-shift-`': 'platformio-ide-terminal:new'
+  'ctrl-shift-x': 'platformio-ide-terminal:close'
+'body':
+  'ctrl-1': 'pane:show-item-1'
+  'ctrl-2': 'pane:show-item-2'
+  'ctrl-3': 'pane:show-item-3'
+  'ctrl-4': 'pane:show-item-4'
+  'ctrl-5': 'pane:show-item-5'
+  'ctrl-6': 'pane:show-item-6'
+  'ctrl-7': 'pane:show-item-7'
+  'ctrl-8': 'pane:show-item-8'
+  'ctrl-9': 'pane:show-item-9'
